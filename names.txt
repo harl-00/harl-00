@@ -1,4 +1,0 @@
-Paul Newman, Introduction to Prorgamming, 50, 10
-John Smith, Introduction to Web Development, 70, 20
-David Woodward, Introduction to Web Scripting, 30, 5
-Charlie Walker, Introduction to Operating Systems, 90, 65

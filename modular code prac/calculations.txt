@@ -1,0 +1,1 @@
+1.0 plus 2.0 is 3.01.0 minus 2.0 is -1.01.0 multiplied  2.0 is 2.01.0 divided by 2.0 is 0.5
